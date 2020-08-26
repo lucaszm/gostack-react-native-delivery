@@ -88,23 +88,6 @@
           "quantity": 1
         }
       ]
-    },
-    {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "category": 2,
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "thumbnail_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-gorestaurant-mobile/veggie.png",
-      "price": 45.3,
-      "extras": [
-        {
-          "id": 3,
-          "name": "Bacon",
-          "value": 1.5,
-          "quantity": 1
-        }
-      ]
     }
   ],
   "favorites": [
